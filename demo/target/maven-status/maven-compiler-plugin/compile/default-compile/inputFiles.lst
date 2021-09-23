@@ -1,0 +1,7 @@
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/DemoApplication.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/security/JwtAuthenticationFilter.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/security/OnFileAuthenticationProvider.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/security/SecurityProperties.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/security/JwtAuthorizationFilter.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/ErrorHandler.java
+/Users/lfrefatti/Projetos/bpagro/demo/src/main/java/com/example/demo/security/SecurityConfiguration.java
